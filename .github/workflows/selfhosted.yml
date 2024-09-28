@@ -63,6 +63,9 @@ on:
         - 'eng'
         - 'userdebug'
         - 'user' 
+        - 'ap2a-eng'
+        - 'ap2a-userdebug'
+        - 'ap2a-user'
       CLEAN_BUILD:
         description: 'Build with a clean workspace?'
         required: true
